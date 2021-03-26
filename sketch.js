@@ -3,8 +3,8 @@ var feed, addFood, foodObj, foodStock;
 var food, database, fedTime, lastFed;
 
 function preload(){
-  sadDog=loadImage("Images/Dog.png");
-  happyDog=loadImage("Images/happy dog.png");
+  sadDog=loadImage("images/Dog.png");
+  happyDog=loadImage("images/happy dog.png");
 }
 
 function setup() {
